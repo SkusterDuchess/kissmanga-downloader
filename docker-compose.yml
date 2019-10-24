@@ -13,7 +13,7 @@ services:
       - java
       - -jar
       - /kissmanga-downloader.jar
-      - http://kissmanga.com/Manga/Shingeki-no-Kyojin
+      - https://kissmanga.com/Manga/Boruto-Naruto-Next-Generations/Chapter-026--Gift?id=438057
   selenium:
     image: "elgalu/selenium:latest"
     ports:
